@@ -7,7 +7,9 @@ void main()
  //Add looping funcions here.
  while(1)
  {
+  //Added ; as per Franks request.
   
+  ;
   
  }
 
