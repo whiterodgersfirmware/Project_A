@@ -1,3 +1,5 @@
+//Authors : Dhananjay Joshi
+
 #include <stdio.h>
 
 void main()
